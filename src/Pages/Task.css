@@ -1,0 +1,47 @@
+.card1{
+    border-radius: 10px;
+    box-shadow: #a5a3a3 3px 3px 3px 4px;
+    background-color: white;
+   
+    }
+    .card-body1{
+        margin-top: 10px;
+        width: 100%;
+        padding: 10px 10px 10px 30px;
+      } 
+      .title1{
+        color: #28206b;
+        font-size: 25px;
+        font-weight: bolder;
+        padding-top: 30px;
+        > span  {
+          padding-left: 750px;
+        }
+    
+      }
+      .title2{
+        color: #28206b;
+        font-size: 25px;
+        padding-top: 30px;
+      }
+      .tack-note{
+        color: #a5a3a3;
+        font-size: 30px;
+        padding-top: 30px;
+      }
+      .Time{
+        color: #28206b;
+        padding-top: 30px;
+      }
+      .line {
+        padding-top: 30px;
+      }
+      .icons1{
+        color: #28206b;
+        font-size: 30px;
+        padding: 0px 30px 0px 0px;
+      }
+  .card-head{
+    color: #28206b;
+    padding-top: 20px;
+  }
